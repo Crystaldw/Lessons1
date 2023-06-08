@@ -1,4 +1,4 @@
-package Lesson10.taask1;
+package lesson10.taask1;
 
 public class StringTest {
 

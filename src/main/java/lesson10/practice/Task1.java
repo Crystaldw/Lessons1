@@ -1,4 +1,4 @@
-package Lesson10.practice;
+package lesson10.practice;
 
 public class Task1 {
     public static String concatReversStr(String str1, String str2){

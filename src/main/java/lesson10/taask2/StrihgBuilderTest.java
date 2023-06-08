@@ -1,4 +1,4 @@
-package Lesson10.taask2;
+package lesson10.taask2;
 
 public class StrihgBuilderTest {
 
